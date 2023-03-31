@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-font-awesome/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/preemstudio/blade-icons-font-awesome/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/preemstudio/blade-icons-font-awesome.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-font-awesome)
 
-A package to easily make use of [Font Awesome](https://fontawesome.com/) in your Laravel Blade views.
+A package to easily make use of [Font Awesome](https://fontawesome.com/) with Laravel Blade Icons.
 
 ## Installation
 
