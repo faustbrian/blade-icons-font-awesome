@@ -21,6 +21,6 @@ abstract class TestCase extends AbstractPackageTestCase
 
     protected function getServiceProviderClass(): string
     {
-        return \PreemStudio\BladeFontAwesome\ServiceProvider::class;
+        return \PreemStudio\BladeIcons\FontAwesome\ServiceProvider::class;
     }
 }
