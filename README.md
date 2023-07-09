@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-font-awesome/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-font-awesome" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-font-awesome">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-font-awesome" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-font-awesome">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-font-awesome" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-font-awesome">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-font-awesome" alt="License" />
-    </a>
-</p>
 
 ## About Font Awesome
 
